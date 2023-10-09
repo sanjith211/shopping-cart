@@ -1,0 +1,17 @@
+.title-container {
+    height: 10em;
+    background-color: darkslateblue;
+}
+
+.title {
+    /* margin: 10px; */
+    padding-top: 20px;
+    font-size: xxx-large;
+    font-weight: 1000;
+}
+
+.slogan {
+    padding-top: 10px;
+    font-size: x-large;
+    font-weight: 500;
+}
